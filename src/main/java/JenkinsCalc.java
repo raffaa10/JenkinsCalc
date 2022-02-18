@@ -18,4 +18,6 @@ public class JenkinsCalc {
         }
         return a/b;
     }
+
+    private String nom;
 }
